@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "sql homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmpwhite/Bamazon.git"
+  },
+  "keywords": [
+    "sql",
+    "database",
+    "node"
+  ],
+  "author": "bill white",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmpwhite/Bamazon/issues"
+  },
+  "homepage": "https://github.com/wmpwhite/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
